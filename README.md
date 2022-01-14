@@ -1,4 +1,4 @@
-### Hi I am Heshan Marasinghe... 👋
+### Hi I am Heshan Marasinghe... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/heshan-marasinghe-8a5265172/">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
@@ -16,6 +16,10 @@
 ## 👨‍💻 About Me
 
 I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core, REST API, C# Programming Language/CSS3/HTML, Angular, Bootstrap. Experience of working with various third-party libraries, frameworks and APIs. Familiar with Agile methodologies. Interested in engaging with new technologies.
+
+💬 Ask me about anything, I am happy to help.
+
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47bnlac8ke2qm1e6yxybz9sadyvzgztl7erb56p9on&rid=giphy.gif&ct=g" width="500" height="320" />
 
 ## 💡Languages and Tools
 
@@ -36,12 +40,6 @@ I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core,
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1351700750993223681/NNJK6vzE_400x400.jpg" alt="amazon" width="40" height="40"/> </a>
 </p>
-
-
-<div style="max-width: 100%; text-align: center; margin:auto; display:block;">
-  <img alt="GIF" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47bnlac8ke2qm1e6yxybz9sadyvzgztl7erb56p9on&rid=giphy.gif&ct=g" 
-     width="500" height="320"/>
-</div>
 
 
 
