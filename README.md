@@ -4,7 +4,8 @@ I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core,
 
 💡 Languages and Tools
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png
+![image](https://user-images.githubusercontent.com/43208719/149526946-d4e5df55-ed82-4245-af8c-d5b089e501a7.png)
+
 
 - 🔭 I’m currently working on ... .NET Core
 - 🌱 I’m currently learning ... React.js
