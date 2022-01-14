@@ -13,7 +13,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/stars/heshanmarasinghe?color=yellow&logo=github">
 </a>
 
-## 👨‍💻 About Me:
+## 👨‍💻 About Me
 
 I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core, REST API, C# Programming Language/CSS3/HTML, Angular, Bootstrap. Experience of working with various third-party libraries, frameworks and APIs. Familiar with Agile methodologies. Interested in engaging with new technologies.
 
