@@ -38,7 +38,10 @@ I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core,
 </p>
 
 
-<img alt="GIF" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47bnlac8ke2qm1e6yxybz9sadyvzgztl7erb56p9on&rid=giphy.gif&ct=g" 
-     width="500" height="320" style="max-width: 100%; margin:auto; display:block;"/>
+<div style="max-width: 100%; text-align: center; margin:auto; display:block;">
+  <img alt="GIF" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47bnlac8ke2qm1e6yxybz9sadyvzgztl7erb56p9on&rid=giphy.gif&ct=g" 
+     width="500" height="320"/>
+</div>
+
 
 
