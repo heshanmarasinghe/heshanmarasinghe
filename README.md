@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I am Heshan Marasinghe 👋
 
+I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core, REST API, C# Programming Language/CSS3/HTML, Angular, Bootstrap. Experience of working with various third-party libraries, frameworks and APIs. Familiar with Agile methodologies. Interested in engaging with new technologies.
 
 Here are some ideas to get you started:
 
