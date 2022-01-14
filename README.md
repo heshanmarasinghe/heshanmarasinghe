@@ -2,7 +2,8 @@
 
 I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core, REST API, C# Programming Language/CSS3/HTML, Angular, Bootstrap. Experience of working with various third-party libraries, frameworks and APIs. Familiar with Agile methodologies. Interested in engaging with new technologies.
 
-Here are some ideas to get you started:
+💡 Languages and Tools
+html5 javascript “typescript” css3 “sass” mongodb mysql firebase git jenkins docker linux “ubuntu” “debian” nginx nodejs “express react “angular” “babel” webpack “bootstrap” “grunt” “gulp” “handlebars” “jasmine” “npm” “yarn” “travis”
 
 - 🔭 I’m currently working on ... .NET Core
 - 🌱 I’m currently learning ... React.js
