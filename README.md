@@ -1,48 +1,46 @@
-### Hi I am Heshan Marasinghe 👋
+### Hi I am Heshan Marasinghe... 👋
+
+<a href="https://www.linkedin.com/in/heshan-marasinghe-8a5265172/">
+  <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://github.com/heshanmarasinghe/">
+  <img align="left" src="https://komarev.com/ghpvc/?username=heshanmarasinghe" alt="page views" />
+</a>
+<a href="https://github.com/heshanmarasinghe?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/heshanmarasinghe?color=green&logo=github">
+</a>
+<a href="https://github.com/heshanmarasinghe?tab=stars">
+  <img alt="GitHub followers" src="https://img.shields.io/github/stars/heshanmarasinghe?color=yellow&logo=github">
+</a>
+
+## 👨‍💻 About Me:
 
 I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core, REST API, C# Programming Language/CSS3/HTML, Angular, Bootstrap. Experience of working with various third-party libraries, frameworks and APIs. Familiar with Agile methodologies. Interested in engaging with new technologies.
 
-💡 Languages and Tools
+## 💡Languages and Tools
 
 <p align="left">
+  
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=">.NETCore" width="40" height="40"/> </a>
+ <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="NET" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt=“typescript” width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt=“sass” width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt=“ubuntu” width="40" height="40"/> </a>
-<a href="https://www.debian.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt=“debian” width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt=“express width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt=“angular” width="40" height="40"/> </a> 
-<a href="https://babeljs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt=“babel” width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt=“bootstrap” width="40" height="40"/> </a>
-<a href="https://gruntjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg" alt=“grunt” width="40" height="40"/> </a>
-<a href="https://gulpjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt=“gulp” width="40" height="40"/> </a>
-<a href="https://handlebarsjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg" alt=“handlebars” width="40" height="40"/> </a>
-<a href="https://jasmine.github.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" alt=“jasmine” width="40" height="40"/> </a>
-<a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt=“npm” width="40" height="40"/> </a>
-<a href="https://yarnpkg.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt=“yarn” width="40" height="40"/> </a>
-<a href="https://travis-ci.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain-wordmark.svg" alt=“travis” width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="http://idwbi.com/wp-content/uploads/2017/04/backup-sql-server-ret.png" alt="SQLServer" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png" alt="powerBi" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1351700750993223681/NNJK6vzE_400x400.jpg" alt="amazon" width="40" height="40"/> </a>
 </p>
 
 
-- 🔭 I’m currently working on ... .NET Core
-- 🌱 I’m currently learning ... React.js
+- 🔭 I’m currently working on ... .NET Core/ .Net
+- 🌱 I’m currently learning ... Amazon Web Services
 - 👯 I’m looking to collaborate on ... .NET
-- 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... heshanmarasinghe@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Cool
--->
