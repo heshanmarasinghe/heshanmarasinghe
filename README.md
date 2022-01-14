@@ -38,9 +38,7 @@ I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core,
 </p>
 
 
-- 🔭 I’m currently working on ... .NET Core/ .Net
-- 🌱 I’m currently learning ... Amazon Web Services
-- 👯 I’m looking to collaborate on ... .NET
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... heshanmarasinghe@gmail.com
-- 😄 Pronouns: ... He/Him
+<img alt="GIF" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47bnlac8ke2qm1e6yxybz9sadyvzgztl7erb56p9on&rid=giphy.gif&ct=g" 
+     width="500" height="320" />
+
+
