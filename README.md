@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/heshan-marasinghe-8a5265172/">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
+<a href="#">
+  <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
 <a href="https://github.com/heshanmarasinghe/">
   <img align="left" src="https://komarev.com/ghpvc/?username=heshanmarasinghe" alt="page views" />
 </a>
