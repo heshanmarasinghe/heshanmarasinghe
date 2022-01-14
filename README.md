@@ -4,7 +4,8 @@ I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core,
 
 💡 Languages and Tools
 
-![image](https://user-images.githubusercontent.com/43208719/149526946-d4e5df55-ed82-4245-af8c-d5b089e501a7.png)
+![image](https://user-images.githubusercontent.com/43208719/149527046-521c96fc-2e67-4760-abda-3db814e82d92.png) ![image](https://user-images.githubusercontent.com/43208719/149527067-9450ab4f-0570-40c5-95eb-a29eb3b99ba0.png)
+
 
 
 - 🔭 I’m currently working on ... .NET Core
